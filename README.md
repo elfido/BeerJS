@@ -1,7 +1,7 @@
 # BeerJS
 Utility libraries for jQuery + CanJS + Underscore + Bootstrap stack
 
-# Library objective
+### Library objective
 Provide some common utilities for CanJS App Development
 
 * Base Controllers
@@ -11,12 +11,12 @@ Provide some common utilities for CanJS App Development
 * UI
 	* Ajax running indicators
 
-## Dependencies
+### Dependencies
 * jQuery (http://www.jquery.com)
 * Bootstrap (http://www.getbootstrap.com)
 * Underscore (http://underscorejs.org)
 
-## Dev Dependencies
+### Dev Dependencies
 * NodeJS (https://nodejs.org)
 * Stylus (https://learnboost.github.io/stylus)
 * Bower (http://bower.io)
